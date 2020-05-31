@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="967fde69-3b33-4132-bfb8-adb6e9ffb732" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hw2020/datagramAnalysis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw2020/phoneNumToCharCombinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw2020/searchNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw2020/stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw2020/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw2020/ez_listMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw2020/isSymmetric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw2020/md_bracketsGenenrate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2020_HW_test/hw2020/vote1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2020_HW_test/hw2020/vote1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw2020/madeRegex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw2020/madeRegex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw2020/maxSWithDoublePointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw2020/maxSWithDoublePointer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw2020/sumOf3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw2020/sumOf3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw2020/vote1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw2020/vote1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2020_HW_test/hw2020/stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2020_HW_test/hw2020/stack.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,9 +49,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.stack">
+  <component name="RunManager" selected="Application.isSymmetric">
     <configuration name="datagramAnalysis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw2020.datagramAnalysis" />
+      <module name="2020_HW_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ez_listMerge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw2020.ez_listMerge" />
+      <module name="2020_HW_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="isSymmetric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw2020.isSymmetric" />
       <module name="2020_HW_test" />
       <extension name="coverage">
         <pattern>
@@ -82,19 +102,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="searchNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw2020.searchNum" />
-      <module name="2020_HW_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hw2020.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw2020.stack" />
       <module name="2020_HW_test" />
@@ -108,26 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw2020.test" />
-      <module name="2020_HW_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hw2020.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.isSymmetric" />
+        <item itemvalue="Application.ez_listMerge" />
         <item itemvalue="Application.stack" />
         <item itemvalue="Application.phoneNumToCharCombinition" />
         <item itemvalue="Application.datagramAnalysis" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.searchNum" />
       </list>
     </recent_temporary>
   </component>
@@ -246,79 +240,9 @@
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hw2020/stack.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hw2020/stack.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hw2020/stack.java</url>
-          <line>18</line>
+          <url>file://$PROJECT_DIR$/src/hw2020/isSymmetric.java</url>
+          <line>41</line>
           <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hw2020/stack.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hw2020/stack.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hw2020/stack.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hw2020/stack.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hw2020/stack.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hw2020/stack.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="69" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hw2020/stack.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="70" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hw2020/stack.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hw2020/stack.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hw2020/stack.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hw2020/stack.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hw2020/stack.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="75" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
