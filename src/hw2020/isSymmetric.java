@@ -42,7 +42,7 @@ public class isSymmetric {
         int l = ar.size();
 
         for (int i = 0; i < l / 2; i++) {
-            if (ar.get(i) == ar.get(l - 1 - i) && arl.get(i) == arl.get(l - 1 - i)) continue;
+            if (ar.get(i).equals(ar.get(l - 1 - i)) && arl.get(i).equals(arl.get(l - 1 - i))) continue;
             else return false;
         }
         return true;
@@ -54,8 +54,7 @@ public class isSymmetric {
         root.right = new TreeNode(-57);
         root.left.right = new TreeNode(67);
         root.right.left = new TreeNode(67);
-        root.left.right.left = new TreeNode(-97);
-        root.right.left.left = new TreeNode(-97);
+
 
         if (isSymmetric(root)) System.out.println("symmetric");
         else System.out.println("not symmetric");
