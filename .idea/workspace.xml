@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="967fde69-3b33-4132-bfb8-adb6e9ffb732" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/hw2020/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw2020/sameCharDifString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2020_HW_test/hw2020/isSymmetric.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2020_HW_test/hw2020/isSymmetric.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw2020/isSymmetric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw2020/isSymmetric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hw2020/reverseInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw2020/reverseInt.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +48,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.isSymmetric">
-    <configuration name="datagramAnalysis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw2020.datagramAnalysis" />
+  <component name="RunManager" selected="Application.HeapSort">
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw2020.HeapSort" />
       <module name="2020_HW_test" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="phoneNumToCharCombinition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hw2020.phoneNumToCharCombinition" />
+    <configuration name="sameCharDifString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw2020.sameCharDifString" />
       <module name="2020_HW_test" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HeapSort" />
+        <item itemvalue="Application.sameCharDifString" />
         <item itemvalue="Application.isSymmetric" />
         <item itemvalue="Application.ez_listMerge" />
         <item itemvalue="Application.stack" />
-        <item itemvalue="Application.phoneNumToCharCombinition" />
-        <item itemvalue="Application.datagramAnalysis" />
       </list>
     </recent_temporary>
   </component>
